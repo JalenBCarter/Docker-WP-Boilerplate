@@ -10,3 +10,4 @@ A wordpress boilerplate using Docker compose to create 3 containers. One for Wor
 ```
 docker-compose up -d
 ```
+ 
